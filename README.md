@@ -261,6 +261,21 @@ Possible future enhancements include:
 
 ---
 
+## Repository Structure
+
+```text
+schema/             Database schema
+queries/            Business queries
+window_functions/   Analytical SQL
+views/              Views and Materialized Views
+functions/          User-defined functions
+procedures/         Stored procedures
+triggers/           Database triggers
+indexes/            Performance optimization
+images/             ERD and documentation images
+
+---
+
 ## Author
 
 **Dania Carmenate**
