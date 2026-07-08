@@ -273,6 +273,7 @@ procedures/         Stored procedures
 triggers/           Database triggers
 indexes/            Performance optimization
 images/             ERD and documentation images
+```
 
 ---
 
